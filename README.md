@@ -7,7 +7,7 @@ The primary goal of churn analysis is to understand why customers churn by exami
 The data for this project is a CSV file containing the following columns:
 
 **Column Description:**
-  customer_id = Unique identifier for each customer
+  customer_id = Unique identifier for each customer.
   credit_score = Credit score of the customer
   country = Country of the customer
   gender = Gender of the customer
